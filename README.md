@@ -6,7 +6,7 @@ Feel free to contribute and further improve it
 # Installing
 1. Move to the target folder `cd /YOURFOLDER`
 2. `git clone https://github.com/josephkearney91/i-am-a-berliner-termin.git`
-3. `cd anmeldung_berlin`
+3. `cd i-am-a-berliner-termin`
 4. `npm install`
 
 # Update the time check - optional
